@@ -1,3 +1,8 @@
 # About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Fybrid&show_icons=true&locale=en&layout=compact)
+<a href="https://github.com/Fybrid">
+  <img align="left" height="170px" src="img/profile_stats.svg" />
+</a>
+<a href="https://github.com/Fybrid">
+  <img align="right" height="170px" src="img/profile_languages.svg" />
+</a>
