@@ -81,5 +81,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .github/last-run.txt img/profile_stats.svg img/profile_languages.svg
-          git commit -m ":books: update profile svgs [skip ci]"
+          git commit -m ":books: update profile stats"
           git push
