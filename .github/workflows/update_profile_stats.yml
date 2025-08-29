@@ -45,30 +45,27 @@ jobs:
           PAIRS="${PAIRS/__URL1__/${PROFILE_STATS_URL}}"
           PAIRS="${PAIRS/__URL2__/${PROFILE_LANGUAGES_URL}}"
 
-          UPDATED=0
           while IFS='|' read -r url dest; do
             tmp="$(mktemp)"
             echo "→ Fetch to: $dest"
-            curl -fsSL --retry 3 --retry-delay 2 "$url" -o "$tmp"
+            # キャッシュ回避用のクエリを付与して必ずAPIを叩く
+            if echo "$url" | grep -q '?'; then
+              bust_url="${url}&_ts=$(date +%s)"
+            else
+              bust_url="${url}?_ts=$(date +%s)"
+            fi
+
+            curl -fsSL --retry 3 --retry-delay 2 "$bust_url" -o "$tmp"
 
             if [ ! -s "$tmp" ]; then
               echo "  ✗ empty file (skip)"; rm -f "$tmp"; continue
             fi
 
             mkdir -p "$(dirname "$dest")"
-            if [ ! -f "$dest" ] || ! cmp -s "$tmp" "$dest"; then
-              mv "$tmp" "$dest"
-              echo "  ✓ updated: $dest"
-              UPDATED=1
-            else
-              rm -f "$tmp"
-              echo "  = no change: $dest"
-            fi
+            # 差分の有無に関係なく常に上書き
+            mv "$tmp" "$dest"
+            echo "  ✓ wrote: $dest"
           done <<< "$PAIRS"
-
-          if [ $UPDATED -eq 1 ]; then
-            echo "UPDATED=1" >> "$GITHUB_ENV"
-          fi
 
       - name: Update marker file
         run: |
@@ -81,5 +78,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .github/last-run.txt img/profile_stats.svg img/profile_languages.svg
-          git commit -m ":books: update profile stats"
+          git commit -m ":art: update profile stats"
           git push
