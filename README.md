@@ -15,10 +15,13 @@
 <!-- TODO: -->
 <!-- ## 🏆 Achievements -->
 
-<!-- TODO: 言語（技術）とツール分ける -->
-<h2>🛠️ &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>📚 &nbsp;Languages</h2>
 
-![](https://skillicons.dev/icons?i=c,html,css,scss,js,nodejs,typescript,python,php,laravel,java,go,mysql,supabase,react,aws,vscode,docker,git,postman,notion,discord)
+![](https://skillicons.dev/icons?i=c,html,css,scss,js,nodejs,typescript,react,python,php,laravel,java,go,mysql)
+
+<h2>🛠️ &nbsp;Tools</h2>
+
+![](https://skillicons.dev/icons?i=vscode,docker,git,postman,notion,discord,supabase,aws)
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
