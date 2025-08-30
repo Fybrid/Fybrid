@@ -25,7 +25,7 @@
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
-<div align=center>
+<div align=left>
   <a href="https://github.com/Fybrid">
     <img src="img/profile_stats.svg" style="height:150px; margin-right:20px;"/>
   </a>
