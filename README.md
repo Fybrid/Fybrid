@@ -25,11 +25,10 @@
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
-<div align=left>
-  <a href="https://github.com/Fybrid">
-    <img src="img/profile_stats.svg" style="height:150px; margin-right:20px;"/>
-  </a>
-  <a href="https://github.com/Fybrid">
-    <img src="img/profile_languages.svg" style="height:150px;"/>
-  </a>
-</div>
+<a href="https://github.com/Fybrid">
+  <img align="left" src="img/profile_stats.svg" style="height:170px; margin-right:20px;"/>
+</a>
+<a href="https://github.com/Fybrid">
+  <img align="left" src="img/profile_languages.svg" style="height:170px;"/>
+</a>
+
