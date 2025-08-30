@@ -21,13 +21,15 @@
 
 <h2>🛠️ &nbsp;Tools</h2>
 
-![](https://skillicons.dev/icons?i=vscode,docker,git,postman,notion,discord,supabase,aws)
+![](https://skillicons.dev/icons?i=windows,apple,ubuntu,vscode,docker,git,github,githubactions,postman,notion,discord,vercel,aws,supabase)
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
-<a href="https://github.com/Fybrid">
-  <img align="left" height="170px" src="img/profile_stats.svg" style="margin-right:20px; margin-bottom:20px;"/>
-</a>
-<a href="https://github.com/Fybrid">
-  <img align="left" height="170px" src="img/profile_languages.svg" />
-</a>
+<div align=center>
+  <a href="https://github.com/Fybrid">
+    <img src="img/profile_stats.svg" style="height:150px; margin-right:20px;"/>
+  </a>
+  <a href="https://github.com/Fybrid">
+    <img src="img/profile_languages.svg" style="height:150px;"/>
+  </a>
+</div>
