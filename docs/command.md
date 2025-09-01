@@ -1,6 +1,6 @@
 # Useful Commands
 
-### APIで画像更新
+### APIで画像更新（ローカル）
 
 Githubのアクションをローカルで試す
 
@@ -15,7 +15,7 @@ curl -fsSL "https://{$PROFILE_STATS_URL}/api?username={$yourname}&count_private=
 
 ---
 
-### 環境変数
+### 環境変数（ローカル）
 
 環境変数に値をセット
 
