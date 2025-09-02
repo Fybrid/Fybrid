@@ -17,7 +17,13 @@
 
 <h2>📚 &nbsp;Languages</h2>
 
-![](https://skillicons.dev/icons?i=c,html,css,scss,js,nodejs,typescript,react,python,php,laravel,java,go,mysql)
+<h3>✨ &nbsp;Favorites<h3>
+
+![](https://skillicons.dev/icons?i=c,php,laravel,go)
+
+<h3>✍🏻 &nbsp;Have Used or Learned<h3>
+
+![](https://skillicons.dev/icons?i=html,css,scss,js,typescript,nodejs,react,python,java,mysql)
 
 <h2>🛠️ &nbsp;Tools</h2>
 
