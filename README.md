@@ -35,6 +35,10 @@
 
 - https://zenn.dev/fybrid/articles/8de77ef352ae3d
 
+<h3>🌐 &nbsp;Profiles<h3>
+
+- https://zenn.dev/fybrid
+
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
 <a href="https://github.com/Fybrid">
