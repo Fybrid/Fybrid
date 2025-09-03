@@ -17,7 +17,7 @@
 
 <h2>📚 &nbsp;Languages</h2>
 
-<h3>✨ &nbsp;Favorites<h3>
+<h3>⭐️ &nbsp;Favorites<h3>
 
 ![](https://skillicons.dev/icons?i=c,php,laravel,go)
 
@@ -29,6 +29,12 @@
 
 ![](https://skillicons.dev/icons?i=windows,apple,ubuntu,vscode,docker,git,github,githubactions,postman,notion,discord,vercel,aws,supabase)
 
+<h2>🔗 &nbsp;Links</h2>
+
+<h3>✨ &nbsp;My Latest Posts<h3>
+
+- https://zenn.dev/fybrid/articles/8de77ef352ae3d
+
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
 <a href="https://github.com/Fybrid">
@@ -37,4 +43,3 @@
 <a href="https://github.com/Fybrid">
   <img align="left" src="img/profile_languages.svg" style="height:170px;"/>
 </a>
-
