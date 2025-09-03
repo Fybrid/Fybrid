@@ -33,11 +33,11 @@
 
 <h3>✨ &nbsp;My Latest Posts<h3>
 
-- https://zenn.dev/fybrid/articles/8de77ef352ae3d
+- [GitHub Profileをかっこよくしたい！](https://zenn.dev/fybrid/articles/8de77ef352ae3d)(JP)
 
 <h3>🌐 &nbsp;Profiles<h3>
 
-- https://zenn.dev/fybrid
+- [Zenn](https://zenn.dev/fybrid)
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
