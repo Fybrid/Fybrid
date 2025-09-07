@@ -1,7 +1,9 @@
-<!-- Banner -->
-<!-- 編集中 -->
 
 <h1>Hi, I'm Fybrid! 👋</h2>
+
+<!-- Banner -->
+<!-- TODO: 変更予定 昔のTwitter用のものを一旦追加 -->
+<img align="center" src="img/profile_banner.svg" style="">
 
 <h2>👨‍💻 &nbsp;About Me</h2>
 
@@ -31,7 +33,7 @@
 
 <h2>🔗 &nbsp;Links</h2>
 
-<h3>✨ &nbsp;My Latest Posts<h3>
+<h3>✨ &nbsp;My Latest Articles<h3>
 
 - [GitHub Profileをかっこよくしたい！](https://zenn.dev/fybrid/articles/8de77ef352ae3d)(JP)
 
@@ -44,6 +46,7 @@
 <a href="https://github.com/Fybrid">
   <img align="left" src="img/profile_stats.svg" style="height:170px; margin-right:20px;"/>
 </a>
+
 <a href="https://github.com/Fybrid">
   <img align="left" src="img/profile_languages.svg" style="height:170px;"/>
 </a>
