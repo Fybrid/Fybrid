@@ -7,9 +7,13 @@
 
 <h2>👨‍💻 &nbsp;About Me</h2>
 
+最近このGitHubのプロフィールをもっとカスタマイズできないかと模索していますが、逆にぐちゃぐちゃに見えてきてもう少しスッキリさせようと思っています。
+
 - 🎓 I’m a Japanese student learning software development.
+
 - 💻 I'm currently working on Typescript and PHP projects.
-- 🌱 I’m graduating next year and have accepted an offer to work as a Software Engineer.
+
+- 🌱 I’m graduating next year 2026 and have accepted an offer to work as a Software Engineer in Tokyo.
 
 <!-- TODO: -->
 <!-- ## 🌱 Currently Exploring -->
