@@ -1,13 +1,7 @@
 
 <h1>Hi, I'm Fybrid! 👋</h2>
 
-<!-- Banner -->
-<!-- TODO: 変更予定 昔のTwitter用のものを一旦追加 -->
-<img align="center" src="img/profile_banner.svg" style="">
-
 <h2>👨‍💻 &nbsp;About Me</h2>
-
-最近このGitHubのプロフィールをもっとカスタマイズできないかと模索していますが、逆にぐちゃぐちゃに見えてきてもう少しスッキリさせようと思っています。
 
 - 🎓 I’m a Japanese student learning software development.
 
