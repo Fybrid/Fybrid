@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shinnosuke Sasaki's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits in 2025 : 111, Total PRs: 24, Total Issues: 6, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits in 2025 : 112, Total PRs: 25, Total Issues: 6, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 185.9912301938887;
+        stroke-dashoffset: 185.28577283664154;
       }
     }
   
@@ -179,7 +179,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >111</text>
+      >112</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -190,7 +190,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >24</text>
+      >25</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
